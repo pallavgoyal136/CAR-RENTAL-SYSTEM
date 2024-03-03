@@ -30,8 +30,12 @@ Employee Database (Employee_database.txt)
 The Employee Database (Employee_database.txt) is similar to the Customer Database, but employees receive an extra 15% discount.
 
 Then entire program is the Rental.cpp file. Sample data has been loaded into the customer,employee and car database.
+
+**
 To run the program open the entire directory onto terminal and run, g++ Rental.cpp -o Rental
 After this run ./Rental.exe
+**
+
 Operations
 Customer/Employee Interface
 Firstly enter number as per the customer and employee
