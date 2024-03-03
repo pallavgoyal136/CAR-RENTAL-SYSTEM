@@ -1,0 +1,5 @@
+GJ01,Ford,4,5000,None,0,1
+RJ01,Ferrari,4,30000,None,0,1
+UP01,Mercedes,100,8000,None,0,1
+ap01,bugati,4,3400,None,0,1
+mh01,volkswagen,9,1500,None,0,1
